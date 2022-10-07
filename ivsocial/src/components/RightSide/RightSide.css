@@ -13,6 +13,11 @@
     width: 1.5em;
     height: 1.5em;
 }
+.navIcons>a>img{
+    width: 1.5em;
+    height: 1.5em;
+}
+
 .r-button{
     height: 3rem;
     width: 80%;
